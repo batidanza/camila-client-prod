@@ -11,7 +11,7 @@ function App() {
     
     <Fan/>
     <CollectionCarroussel/>
-    <div> hola mundo </div>
+    <div> LA RE CAUUUUUUUU </div>
     
     </>
   )
